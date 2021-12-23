@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **plskz/plskz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
+
+<div align="center">
+  <a href="https://discord.com/users/90431685472038912" >
+    <img src="https://lanyard-profile-readme.vercel.app/api/90431685472038912"  />
+  </a>
+</div>

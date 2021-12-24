@@ -16,7 +16,9 @@ Here are some ideas to get you started:
  -->
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/57343545/147352533-5f7c9727-913e-4ea2-80c8-10c900d3acb7.gif" />
+  <br>
   <a href="https://discord.com/users/90431685472038912" >
-    <img src="https://lanyard-profile-readme.vercel.app/api/90431685472038912"  />
+    <img src="https://lanyard-profile-readme.vercel.app/api/90431685472038912" />
   </a>
 </div>

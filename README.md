@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://discord.com/users/90431685472038912">
+<a href="https://discord.com/users/90431685472038912" target="_blank">
   <img src="https://lanyard-profile-readme.vercel.app/api/90431685472038912?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <p align="center">Wanna see some of my future projects? Join today!</p>
 
 <div align="center">
- <a href="https://discord.gg/9gCW5CFEAj">
+ <a href="https://discord.gg/9gCW5CFEAj" target="_blank">
    <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner2" />
  </a>
 </div>

@@ -15,10 +15,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
+<h3 align="center" fontsize: '20px'>Zai Santillan</h3>
+
+<p align="center"><sub>An Aspiring Software Engineer</sub></p>
+
+---
+
+<a href="https://discord.com/users/90431685472038912">
+  <img src="https://lanyard-profile-readme.vercel.app/api/90431685472038912?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
+
+- 🖥️ Frontend:
+  - React
+  - Sass/TailwindCSS
+
+- 🛠 Backend:
+  - ...
+  - ...
+
+<br />
+
+## <p align="center">🌏 My Community</p>
+
+<p align="center">Wanna see some of my future projects? Join today!</p>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/57343545/147352533-5f7c9727-913e-4ea2-80c8-10c900d3acb7.gif" />
-  <br>
-  <a href="https://discord.com/users/90431685472038912" >
-    <img src="https://lanyard-profile-readme.vercel.app/api/90431685472038912" />
-  </a>
+ <a href="https://discord.gg/9gCW5CFEAj">
+   <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner2" />
+ </a>
 </div>
+
+<!-- <a href="https://discord.gg/9gCW5CFEAj">
+  <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner4" align="center" />
+</a> -->
+
+
+<br />
+<br />
+
+[![Hits](https://hits.link/hits?url=https://github.com/plskz&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)

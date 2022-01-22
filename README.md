@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://discord.com/users/90431685472038912" target="_blank">
-  <img src="https://lanyard-profile-readme.vercel.app/api/90431685472038912?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/90431685472038912?idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
 - 🖥️ Frontend:

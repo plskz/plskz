@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 
 <br />
 
-## <p align="center">🌏 My Community</p>
+<a href="https://wakatime.com/@Crawl" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
+
+## <p align="center">🌏 My Community</span> </p>
 
 <p align="center">Wanna see some of my future projects? Join today!</p>
 

@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br />
 
 ```
-                                                 "Think twice, code once!"
+                                             "Think twice, code once!"
 ```
 
 

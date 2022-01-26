@@ -49,6 +49,13 @@ Here are some ideas to get you started:
   <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner4" align="center" />
 </a> -->
 
+<br />
+<br />
+
+```
+                                                 "Think twice, code once!"
+```
+
 
 <br />
 <br />

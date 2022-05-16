@@ -9,6 +9,7 @@
 </a>
 
 - 🖥️ Frontend:
+
   - React
   - Sass/TailwindCSS
 
@@ -17,7 +18,6 @@
   - ...
 
 <br />
-
 
 ## <p align="center">🌏 My Community</p>
 
@@ -28,7 +28,6 @@
    <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner2" />
  </a>
 </div>
-
 
 <br />
 <br />
@@ -44,13 +43,13 @@
   <summary>📊 Weekly Stats</summary>
   
   <br />
+
   <a href="https://wakatime.com/@plskz" target="_blank">
-	<img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
-  </a>
+	<img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats"></a>
+  
 </details>
 
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/f35b8f5b-54d5-481a-851c-19d793f49118.svg)](https://wakatime.com/@f35b8f5b-54d5-481a-851c-19d793f49118)
 [![Hits](https://hits.link/hits?url=https://github.com/plskz&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
-
-![github-user-contribution-plskz](https://user-images.githubusercontent.com/57343545/164355731-032d1f32-b47e-4a70-a70d-a6a0d61f321c.svg)

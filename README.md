@@ -10,7 +10,7 @@
 
 - 🖥️ Frontend:
 
-  - React
+  - Nextjs/TypeScript
   - Sass/TailwindCSS
 
 - 🛠 Backend:
@@ -19,36 +19,23 @@
 
 <br />
 
-## <p align="center">🌏 My Community</p>
-
-<p align="center">Wanna see some of my future projects? Join today!</p>
+---
 
 <div align="center">
- <a href="https://discord.gg/9gCW5CFEAj" target="_blank">
-   <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner2" />
+ <p>Wanna see some of my projects? Join today!</p>
+ <a href="https://discord.gg/c9WHmfdVxX" target="_blank">
+    <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner2" />
  </a>
+
+ <br />
+ <br />
+
+  <a href="https://wakatime.com/@plskz" target="_blank">
+    <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats" />
+  </a>
 </div>
 
 <br />
-<br />
-
-```
-                                             "Think twice, code once!"
-```
-
-<br />
-<br />
-
-<details>
-  <summary>📊 Weekly Stats</summary>
-  
-  <br />
-
-  <a href="https://wakatime.com/@plskz" target="_blank">
-	<img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats"></a>
-  
-</details>
-
 <br />
 
 [![wakatime](https://wakatime.com/badge/user/f35b8f5b-54d5-481a-851c-19d793f49118.svg)](https://wakatime.com/@f35b8f5b-54d5-481a-851c-19d793f49118)

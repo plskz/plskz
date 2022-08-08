@@ -5,7 +5,7 @@
 ---
 
 <a href="https://discord.com/users/90431685472038912" target="_blank">
-  <img align="right" alt="discord card profile"src="https://lanyard.kyrie25.me/api/90431685472038912?idleMessage=Just%20chillin'%20at%20the%20moment..." />
+  <img align="right" alt="discord card profile"src="https://lanyard.kyrie25.me/api/90431685472038912?bg=161B22&idleMessage=Just%20chillin'%20at%20the%20moment..." />
 </a>
 
 - 🖥️ Frontend:
@@ -31,7 +31,7 @@
  <br />
 
   <a href="https://wakatime.com/@plskz" target="_blank">
-    <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats" />
+    <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=161B22&border_color=161B22&custom_title=Weekly%20Stats" />
   </a>
 </div>
 

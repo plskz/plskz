@@ -1,4 +1,4 @@
-<h3 align="center" fontsize: '20px'>Zai Santillan</h3>
+<h3 align="center">Zai Santillan</h3>
 
 <p align="center"><sub>An Aspiring Software Engineer</sub></p>
 
@@ -31,7 +31,7 @@
  <br />
 
   <a href="https://wakatime.com/@plskz" target="_blank">
-    <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=161B22&border_color=161B22&custom_title=Weekly%20Stats" />
+    <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=161B22&border_color=161B22&custom_title=Weekly%20Stats&disable_animations=true" />
   </a>
 </div>
 

@@ -38,5 +38,5 @@
 <br />
 <br />
 
-[![wakatime](https://wakatime.com/badge/user/f35b8f5b-54d5-481a-851c-19d793f49118.svg)](https://wakatime.com/@f35b8f5b-54d5-481a-851c-19d793f49118)
-[![Hits](https://hits.link/hits?url=https://github.com/plskz&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
+[![wakatime](https://wakatime.com/badge/user/f35b8f5b-54d5-481a-851c-19d793f49118.svg)](https://wakatime.com/@plskz)
+[![Hits](https://hits.link/hits?url=https://github.com/plskz&bgLeft=444444&bgRight=575fff&label=visits)](https://plskz.me)

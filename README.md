@@ -31,7 +31,7 @@
  <br />
 
   <a href="https://wakatime.com/@plskz" target="_blank">
-    <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=10px&theme=dark&bg_color=161B22&border_color=161B22&custom_title=Weekly%20Stats&disable_animations=true" />
+    <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=15px&theme=dark&bg_color=161B22&border_color=161B22&custom_title=Weekly%20Stats&disable_animations=true" />
   </a>
 </div>
 

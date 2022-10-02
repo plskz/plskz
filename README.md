@@ -39,4 +39,4 @@
 <br />
 
 [![wakatime](https://wakatime.com/badge/user/f35b8f5b-54d5-481a-851c-19d793f49118.svg)](https://wakatime.com/@plskz)
-[![Hits](https://hits.link/hits?url=https://github.com/plskz&bgLeft=444444&bgRight=575fff&label=visits)](https://plskz.me)
+[![profile views](https://komarev.com/ghpvc/?username=plskz)](https://plskz.me)

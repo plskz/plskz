@@ -10,11 +10,11 @@
 
 - 🖥️ Frontend:
 
-  - Nextjs/TypeScript
-  - Sass/TailwindCSS
+  - React / Next.js (TypeScript)
+  - Sass / TailwindCSS
 
 - 🛠 Backend:
-  - ...
+  - PostgreSQL + Prisma
   - ...
 
 <br />

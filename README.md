@@ -5,7 +5,7 @@
 ---
 
 <a href="https://discord.com/users/90431685472038912" target="_blank">
-  <img align="right" alt="discord card profile"src="https://lanyard.kyrie25.me/api/90431685472038912?bg=1e1e2e&idleMessage=Just%20chillin'%20at%20the%20moment..." />
+  <img align="right" alt="discord card profile"src="https://lanyard.cnrad.dev/api/90431685472038912?bg=1e1e2e&idleMessage=Just%20chillin%27%20at%20the%20moment..." />
 </a>
 
 - 🖥️ Frontend:

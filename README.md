@@ -21,9 +21,10 @@
 
 ---
 
+<samp>
 <div align="center">
  <p>Wanna see some of my projects? Join today!</p>
- <a href="https://discord.gg/c9WHmfdVxX" target="_blank">
+ <a href="https://dub.sh/Ticker-bots-from-gh" target="_blank">
     <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner2" />
  </a>
 
@@ -34,6 +35,7 @@
     <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=15px&theme=dark&bg_color=1e1e2e&border_color=1e1e2e&custom_title=Weekly%20Stats&disable_animations=true" />
   </a>
 </div>
+</samp>
 
 <br />
 <br />

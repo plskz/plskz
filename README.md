@@ -40,5 +40,10 @@
 <br />
 <br />
 
+[![@plskz's Holopin board](https://holopin.me/plskz)](https://holopin.io/@plskz)
+
+<br />
+<br />
+
 [![wakatime](https://wakatime.com/badge/user/f35b8f5b-54d5-481a-851c-19d793f49118.svg)](https://wakatime.com/@plskz)
 [![https://hits-app.vercel.app](https://hits-app.vercel.app/hits?url=https://github.com/plskz&bgLeft=444444&bgRight=575fff&label=visits)](https://plskz.me)

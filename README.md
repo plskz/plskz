@@ -4,8 +4,11 @@
 
 ---
 
-<a href="https://dub.sh/Aai" target="_blank">
-  <img align="right" alt="discord card profile" src="https://lanyard.cnrad.dev/api/90431685472038912?bg=1e1e2e&idleMessage=Just%20chillin%27%20at%20the%20moment..." />
+<a align="right" href="https://dub.sh/Aai" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/90431685472038912?&theme=light&bg=eff1f5&idleMessage=Just%20chillin%27%20at%20the%20moment...">
+    <img align="right" alt="Aai's discord profile" src="https://lanyard.cnrad.dev/api/90431685472038912?bg=1e1e2e&idleMessage=Just%20chillin%27%20at%20the%20moment...">
+  </picture>
 </a>
 
 - 🖥️ Frontend:
@@ -21,26 +24,26 @@
 
 ---
 
-<samp>
 <div align="center">
- <p>Wanna see some of my projects? Join today!</p>
- <a href="https://dub.sh/Ticker-bots-from-gh" target="_blank">
-    <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner2" />
- </a>
+  <samp>Wanna see some of my projects? Join today!</samp>
 
- <br />
- <br />
+  <br />
+  <br />
+
+  <a href="https://dub.sh/Ticker-bots-from-gh" target="_blank">
+      <img src="https://discordapp.com/api/guilds/925599454130765874/widget.png?style=banner2" />
+  </a>
+
+  <br />
+  <br />
 
   <a href="https://wakatime.com/@plskz" target="_blank">
-    <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=15px&theme=dark&bg_color=1e1e2e&border_color=1e1e2e&custom_title=Weekly%20Stats&disable_animations=true" />
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=15px&theme=light&bg_color=eff1f5&border_color=eff1f5&custom_title=Weekly%20Stats&disable_animations=true">
+        <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=15px&theme=dark&bg_color=1e1e2e&border_color=1e1e2e&custom_title=Weekly%20Stats&disable_animations=true">
+    </picture>
   </a>
 </div>
-</samp>
-
-<br />
-<br />
-
-[![@plskz's Holopin board](https://holopin.me/plskz)](https://holopin.io/@plskz)
 
 <br />
 <br />

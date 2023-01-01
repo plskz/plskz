@@ -1,6 +1,6 @@
 <h3 align="center">Zai Santillan</h3>
 
-<p align="center"><sub>An Aspiring Software Engineer</sub></p>
+<p align="center"><samp>Software Engineer</samp></p>
 
 ---
 

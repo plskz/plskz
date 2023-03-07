@@ -43,6 +43,11 @@
         <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=15px&theme=dark&bg_color=1e1e2e&border_color=1e1e2e&custom_title=Weekly%20Stats&disable_animations=true">
     </picture>
   </a>
+  
+  <br />
+  <br />
+  
+  [![@plskz's Holopin board](https://holopin.me/plskz)](https://holopin.io/@plskz)
 </div>
 
 <br />

@@ -46,9 +46,14 @@
   
   <br />
   <br />
-  
-  [![@plskz's Holopin board](https://holopin.me/plskz)](https://holopin.io/@plskz)
 </div>
+
+<details>
+<summary>Holopin</summary>
+
+  [![@plskz's Holopin board](https://holopin.me/plskz)](https://holopin.io/@plskz)
+  
+</details>
 
 <br />
 <br />

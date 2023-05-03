@@ -40,7 +40,7 @@
   <a href="https://wakatime.com/@plskz" target="_blank">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=15px&theme=light&bg_color=eff1f5&border_color=eff1f5&custom_title=Weekly%20Stats&disable_animations=true">
-        <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=15px&theme=dark&bg_color=1e1e2e&border_color=1e1e2e&custom_title=Weekly%20Stats&disable_animations=true">
+        <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=plskz&border_radius=15px&theme=dark&bg_color=1e1e2e&border_color=1e1e2e&custom_title=Weekly%20Stats&disable_animations=true&range=last_7_days">
     </picture>
   </a>
   

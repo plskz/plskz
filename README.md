@@ -14,10 +14,12 @@
 - 🖥️ Frontend:
 
   - React / Next.js (TypeScript)
-  - Sass / TailwindCSS
+  - TailwindCSS
+  - Three.js / React Three Fiber
+  - ...
 
 - 🛠 Backend:
-  - PostgreSQL + Prisma
+  - Supabase
   - ...
 
 <br />

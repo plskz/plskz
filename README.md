@@ -15,6 +15,7 @@
 
   - React / Next.js (TypeScript)
   - TailwindCSS
+  - GSAP / Framer Motion
   - Three.js / React Three Fiber
   - ...
 
